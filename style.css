@@ -54,3 +54,7 @@ body {
     border-radius: 10px;
   }
   
+  .card-title {
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
